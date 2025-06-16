@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=wBI5SZjaAD8  <--- Youtube link
+# MAD I SQLAlchemy Session Week 5 Part-1
+
 from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 
