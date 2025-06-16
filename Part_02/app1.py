@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=e1F621aPDKw
+# MAD I SQLAlchemy Part-2
+
 from flask import Flask , render_template
 from flask_sqlalchemy import SQLAlchemy 
 
